@@ -14,3 +14,8 @@ reading list for quantization
 - [Q-ViT: Fully Differentiable Quantization for Vision Transformer](https://arxiv.org/abs/2201.07703)
 - [(TPAMI2023) Quantformer: Learning Extremely Low-Precision Vision Transformers](https://www.computer.org/csdl/journal/tp/2023/07/09992209/1JevxJcNsGc)
 - [(AAAI2023) Quantized Feature Distillation for Network Quantization](https://arxiv.org/abs/2307.10638)
+- [(ICCV2023) I-ViT: Integer-only Quantization for Efficient Vision Transformer Inference](https://openaccess.thecvf.com/content/ICCV2023/html/Li_I-ViT_Integer-only_Quantization_for_Efficient_Vision_Transformer_Inference_ICCV_2023_paper.html)
+
+### Data free quantization
+- [(ECCV2022) Patch Similarity Aware Data-Free Quantization for Vision Transformers](https://arxiv.org/abs/2203.02250)
+- [(IEEE Transactions on Neural Networks and Learning Systems) PSAQ-ViT V2: Towards Accurate and General Data-Free Quantization for Vision Transformers](https://arxiv.org/abs/2209.05687)
