@@ -2,12 +2,15 @@
 reading list for quantization
 
 ## vision transformer model quantization
-### PTQ(post training quantization)
+### PTQ(post training quantization for transformer)
 - [(NeurIPS2021) Post-Training Quantization for Vision Transformer](https://arxiv.org/abs/2106.14156)
 - [(IJCAI2022) FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer](https://arxiv.org/abs/2111.13824)
 - [(ECCV2022) PTQ4ViT: Post-Training Quantization for Vision Transformers with Twin Uniform Quantization](https://arxiv.org/abs/2111.12293)
 - [(ACM MM2022) Towards Accurate Post-Training Quantization for Vision Transformer](https://arxiv.org/abs/2303.14341)
 - [(ICASSAP2023) TSPTQ-ViT: TWO-SCALED POST-TRAINING QUANTIZATION FOR VISION TRANSFORMER](https://arxiv.org/ftp/arxiv/papers/2305/2305.12901.pdf)
+
+### PTQ for CNN
+-[(ICML2020) Up or Down? Adaptive Rounding for Post-Training Quantization](https://arxiv.org/abs/2004.10568)
 
 ### QAT
 - [(NeurIPS2022) Q-ViT: Accurate and Fully Quantized Low-bit Vision Transformer](https://proceedings.neurips.cc/paper_files/paper/2022/hash/deb921bff461a7b0a5c344a4871e7101-Abstract-Conference.html)
@@ -19,3 +22,6 @@ reading list for quantization
 ### Data free quantization
 - [(ECCV2022) Patch Similarity Aware Data-Free Quantization for Vision Transformers](https://arxiv.org/abs/2203.02250)
 - [(IEEE Transactions on Neural Networks and Learning Systems) PSAQ-ViT V2: Towards Accurate and General Data-Free Quantization for Vision Transformers](https://arxiv.org/abs/2209.05687)
+
+
+## LLM
