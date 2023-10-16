@@ -10,7 +10,7 @@ reading list for quantization
 - [(ICASSAP2023) TSPTQ-ViT: TWO-SCALED POST-TRAINING QUANTIZATION FOR VISION TRANSFORMER](https://arxiv.org/ftp/arxiv/papers/2305/2305.12901.pdf)
 
 ### PTQ for CNN
--[(ICML2020) Up or Down? Adaptive Rounding for Post-Training Quantization](https://arxiv.org/abs/2004.10568)
+- [(ICML2020) Up or Down? Adaptive Rounding for Post-Training Quantization](https://arxiv.org/abs/2004.10568)
 
 ### QAT
 - [(NeurIPS2022) Q-ViT: Accurate and Fully Quantized Low-bit Vision Transformer](https://proceedings.neurips.cc/paper_files/paper/2022/hash/deb921bff461a7b0a5c344a4871e7101-Abstract-Conference.html)
