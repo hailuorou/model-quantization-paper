@@ -1,7 +1,7 @@
 # model-quantization-paper
 reading list for quantization
 
-## vision transformer model quantization
+## CV
 ### PTQ(post training quantization for transformer)
 - [(NeurIPS2021) Post-Training Quantization for Vision Transformer](https://arxiv.org/abs/2106.14156)
 - [(IJCAI2022) FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer](https://arxiv.org/abs/2111.13824)
@@ -11,6 +11,7 @@ reading list for quantization
 
 ### PTQ for CNN
 - [(ICML2020) Up or Down? Adaptive Rounding for Post-Training Quantization](https://arxiv.org/abs/2004.10568)
+- [(ICLR 2021) BRECQ: PUSHING THE LIMIT OF POST-TRAINING QUANTIZATION BY BLOCK RECONSTRUCTION](https://arxiv.org/pdf/2102.05426.pdf)
 
 ### QAT
 - [(NeurIPS2022) Q-ViT: Accurate and Fully Quantized Low-bit Vision Transformer](https://proceedings.neurips.cc/paper_files/paper/2022/hash/deb921bff461a7b0a5c344a4871e7101-Abstract-Conference.html)
